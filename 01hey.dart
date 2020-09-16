@@ -42,13 +42,4 @@
 // };
 // print("price for vipul is : " + callgirllist["vipul"]);
 // }
-
-// main() {
-// var courseDetails = {
-//   "java" : "999",
-//   "dart" : "666",
-//   "reactive native" : "123"
-// };
-
-// print("Price for Java course is: "+ courseDetails["java"]);
-// }
+//
